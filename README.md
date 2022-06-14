@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Linda-023
+- 👋 Hi, I’m @LindaZhang23
 - 👀 I’m interested in 
 - 🌱 I’m currently learning more about computer science, how to draw better, and digging rabbitholes on the internet.
 - 💞️ I’m looking to collaborate on some projects I'm going to start soon!

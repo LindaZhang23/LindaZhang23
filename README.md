@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LindaZhang23
-- 👀 I’m interested in 
+- 👀 I like to draw
 - 🌱 I’m currently learning more about computer science, how to draw better, and digging rabbitholes on the internet.
-- 💞️ I’m looking to collaborate on some projects I'm going to start soon!
-- 📫 How to reach me: 
+- 💞️ Currently working on trying to improve some old projects and do some upskilling...
+- 📫 How to reach me: lindazhang023@gmail.com
 
 <!---
 Linda-023/Linda-023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
